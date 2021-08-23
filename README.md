@@ -1,10 +1,10 @@
 # [Яндекс.Практикум: Data Science](https://praktikum.yandex.ru/data-scientist). Репозиторий проектов.
 
-![logo.jpeg](https://github.com/reekuu/yandex.practicum.ds/blob/main/logo.jpeg)
+![logo.jpeg](https://github.com/reekuu/yandex.practicum.ds/blob/main/logo-wide.jpeg)
 
 **ЯП:** `Python`, `SQL` | 
 **IDE:** `Jupyter Notebook` |
-**Certificate**: [`20218DS00000`](https://github.com/reekuu/yandex.practicum.ds/blob/main/20212DU00306.pdf)
+**Certificate DA**: [`20218DS00000`](https://github.com/reekuu/yandex.practicum.ds/blob/main/20212DU00306.pdf)
 
 | №  | Проект | Задача | Инструменты |
 | -  | :---- | :---- | :--------- | 
