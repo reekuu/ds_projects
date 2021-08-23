@@ -1,4 +1,5 @@
-# [Яндекс.Практикум: Data Science](https://praktikum.yandex.ru/data-scientist). Репозиторий проектов.
+# [Яндекс.Практикум: Data Science](https://praktikum.yandex.ru/data-scientist).
+# Репозиторий проектов.
 
 **ЯП:** `Python`, `SQL` | 
 **IDE:** `Jupyter Notebook` |
