@@ -4,7 +4,7 @@
 
 **ЯП:** `Python`, `SQL` | 
 **IDE:** `Jupyter Notebook` |
-**Certificate DA**: [`20218DS00000`](https://github.com/reekuu/yandex.practicum.ds/blob/main/20212DU00306.pdf)
+**Certificate DA**: [`20212DU00306`](https://github.com/reekuu/yandex.practicum.ds/blob/main/20212DU00306.pdf)
 
 | №  | Проект | Задача | Инструменты |
 | -  | :---- | :---- | :--------- | 
