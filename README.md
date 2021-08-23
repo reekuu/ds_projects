@@ -1,6 +1,6 @@
 # [Яндекс.Практикум: Data Science](https://praktikum.yandex.ru/data-scientist). Репозиторий проектов.
 
-![logo.jpeg](attachment:https://github.com/reekuu/yandex.practicum.ds/blob/main/logo-wide.jpeg)
+![logo-wide](logo-wide.jpeg)
 
 **ЯП:** `Python`, `SQL` | 
 **IDE:** `Jupyter Notebook` |
