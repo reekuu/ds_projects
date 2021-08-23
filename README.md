@@ -1,4 +1,4 @@
-# [Яндекс.Практикум: Data Science](https://praktikum.yandex.ru/data-scientist). Репозиторий проектов.
+# [Яндекс.Практикум: Data Scientist](https://praktikum.yandex.ru/data-scientist). Репозиторий проектов.
 
 ![logo-wide](logo-wide.jpeg)
 
