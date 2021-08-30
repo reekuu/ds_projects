@@ -18,4 +18,4 @@
 
 ### Инструменты
 
-`pymystem3`, `seaborn`, `matplotlib`, `pandas`
+`предобработка данных`, `pymystem3`, `seaborn`, `matplotlib`, `pandas`

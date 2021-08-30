@@ -16,4 +16,4 @@
 
 ### Инструменты
 
-`временные ряды` ,`машинное обучение`, `statsmodels`, `sklearn`, `seaborn`, `matplotlib`, `pandas`
+`временные ряды`, `машинное обучение`, `statsmodels`, `sklearn`, `seaborn`, `matplotlib`, `pandas`

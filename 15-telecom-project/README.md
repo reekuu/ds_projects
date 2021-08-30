@@ -14,4 +14,5 @@
 6. Проанализированы выводы.
 
 ### Инструменты
-`shap`, `tqdm`, `catboost`, `sklearn`, `seaborn`, `matplotlib`, `numpy`, `pandas`
+
+`градентный бустинг`, `машинное обучение`, `предобработка данных`, `исследовательский анализ данных`, `shap`, `tqdm`, `catboost`, `sklearn`, `seaborn`, `matplotlib`, `numpy`, `pandas`

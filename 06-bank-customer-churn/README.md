@@ -12,4 +12,5 @@
 * Обучение с учителем. Работа с несбалансированными данными.
 
 ### Инструменты
-`pandas-profiling`, `imblearn`, `sklearn`, `seaborn`, `matplotlib`, `numpy`, `pandas`
+
+`машинное обучение`, `pandas-profiling`, `imblearn`, `sklearn`, `seaborn`, `matplotlib`, `numpy`, `pandas`
