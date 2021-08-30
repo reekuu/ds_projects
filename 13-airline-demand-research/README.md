@@ -12,4 +12,4 @@
 
 ### Инструменты
 
-`sql`, `pyspark`, `matplotlib`, `pandas`
+`извлечение данных`, `sql`, `pyspark`, `matplotlib`, `pandas`
