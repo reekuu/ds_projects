@@ -15,4 +15,5 @@
 4. Получено значение метрики `RMSE` на тестовой выборке равное 35.
 
 ### Инструменты
-`statsmodels`, `sklearn`, `seaborn`, `matplotlib`, `pandas`
+
+`временные ряды` ,`машинное обучение`, `statsmodels`, `sklearn`, `seaborn`, `matplotlib`, `pandas`
