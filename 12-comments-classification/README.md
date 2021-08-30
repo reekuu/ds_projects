@@ -13,4 +13,5 @@
 3. Построена модель классификации со значением метрики качества `F1` равным 0.78.
 
 ### Инструменты
-`nltk`, `simplemma`, `tqdm`, `re`, `sklearn`, `seaborn`, `matplotlib`, `numpy`, `pandas`
+
+`обработка естественного языка`, `машинное обучение`, `nltk`, `simplemma`, `tqdm`, `re`, `sklearn`, `seaborn`, `matplotlib`, `numpy`, `pandas`
