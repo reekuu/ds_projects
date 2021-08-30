@@ -14,4 +14,4 @@
 
 ### Инструменты
 
-`обработка естественного языка`, `машинное обучение`, `nltk`, `simplemma`, `tqdm`, `re`, `sklearn`, `seaborn`, `matplotlib`, `numpy`, `pandas`
+`обработка естественного языка`, `лемматизация`, `машинное обучение`, `nltk`, `simplemma`, `tqdm`, `re`, `sklearn`, `seaborn`, `matplotlib`, `numpy`, `pandas`
