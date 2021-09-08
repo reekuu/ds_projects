@@ -5,7 +5,7 @@
 **ЯП:** `Python`, `SQL` | 
 **IDE:** `Jupyter Notebook` |
 **Certificate DS**: [`20212DS00733`](https://github.com/reekuu/yandex.practicum.ds/blob/main/20212DS00733.pdf) |
-[`Certificate in english`](https://github.com/reekuu/yandex.practicum.ds/blob/main/20212DS00733_en.pdf)
+[`Cert in english`](https://github.com/reekuu/yandex.practicum.ds/blob/main/20212DS00733_en.pdf)
 
 | №  | Проект | Задача | Инструменты |
 | -  | :----- | :----- | :---------- | 
